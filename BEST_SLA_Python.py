@@ -5,11 +5,11 @@ import urllib.parse
 import gc  # for explicit cleanup
 
 # --- Database connection details ---
-DB_HOST = "10.0.25.155"
-DB_NAME = "best_prd"
-DB_USER = "devuser"
-DB_PASS = "devuser"
-DB_PORT = "5432"
+DB_HOST = 
+DB_NAME = 
+DB_USER = 
+DB_PASS = 
+DB_PORT = 
 
 # --- Try connecting to PostgreSQL using SQLAlchemy ---
 try:
